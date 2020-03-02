@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/URL-shortening-API-landing-page/static/css/main.cc3c6c35.chunk.css",
+    "main.js": "/URL-shortening-API-landing-page/static/js/main.1811f70d.chunk.js",
+    "main.js.map": "/URL-shortening-API-landing-page/static/js/main.1811f70d.chunk.js.map",
+    "runtime-main.js": "/URL-shortening-API-landing-page/static/js/runtime-main.99906ae1.js",
+    "runtime-main.js.map": "/URL-shortening-API-landing-page/static/js/runtime-main.99906ae1.js.map",
+    "static/js/2.0395d8e1.chunk.js": "/URL-shortening-API-landing-page/static/js/2.0395d8e1.chunk.js",
+    "static/js/2.0395d8e1.chunk.js.map": "/URL-shortening-API-landing-page/static/js/2.0395d8e1.chunk.js.map",
+    "index.html": "/URL-shortening-API-landing-page/index.html",
+    "precache-manifest.48a99f58a95bdd771f2e82492acbc9c6.js": "/URL-shortening-API-landing-page/precache-manifest.48a99f58a95bdd771f2e82492acbc9c6.js",
+    "service-worker.js": "/URL-shortening-API-landing-page/service-worker.js",
+    "static/css/main.cc3c6c35.chunk.css.map": "/URL-shortening-API-landing-page/static/css/main.cc3c6c35.chunk.css.map",
+    "static/js/2.0395d8e1.chunk.js.LICENSE.txt": "/URL-shortening-API-landing-page/static/js/2.0395d8e1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/URL-shortening-API-landing-page/static/media/illustration-working.5029d049.svg",
+    "static/media/icon-brand-recognition.svg": "/URL-shortening-API-landing-page/static/media/icon-brand-recognition.1922b68a.svg",
+    "static/media/icon-detailed-records.svg": "/URL-shortening-API-landing-page/static/media/icon-detailed-records.e3d9caa9.svg",
+    "static/media/icon-facebook.svg": "/URL-shortening-API-landing-page/static/media/icon-facebook.7febcff9.svg",
+    "static/media/icon-fully-customizable.svg": "/URL-shortening-API-landing-page/static/media/icon-fully-customizable.cc099cea.svg",
+    "static/media/icon-instagram.svg": "/URL-shortening-API-landing-page/static/media/icon-instagram.996b697c.svg",
+    "static/media/icon-pinterest.svg": "/URL-shortening-API-landing-page/static/media/icon-pinterest.c557c3d4.svg",
+    "static/media/icon-twitter.svg": "/URL-shortening-API-landing-page/static/media/icon-twitter.cb4fea0b.svg",
+    "static/media/logo.svg": "/URL-shortening-API-landing-page/static/media/logo.6387840f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99906ae1.js",
+    "static/js/2.0395d8e1.chunk.js",
+    "static/css/main.cc3c6c35.chunk.css",
+    "static/js/main.1811f70d.chunk.js"
+  ]
+}
